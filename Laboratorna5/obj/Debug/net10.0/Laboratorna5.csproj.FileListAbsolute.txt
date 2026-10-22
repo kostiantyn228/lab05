@@ -1,0 +1,15 @@
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\bin\Debug\net10.0\Laboratorna5.exe
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\bin\Debug\net10.0\Laboratorna5.deps.json
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\bin\Debug\net10.0\Laboratorna5.runtimeconfig.json
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\bin\Debug\net10.0\Laboratorna5.dll
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\bin\Debug\net10.0\Laboratorna5.pdb
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.AssemblyInfoInputs.cache
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.AssemblyInfo.cs
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.csproj.CoreCompileInputs.cache
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.sourcelink.json
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.dll
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\refint\Laboratorna5.dll
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.pdb
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\Laboratorna5.genruntimeconfig.cache
+C:\Users\luhov\RiderProjects\Laboratorna5\Laboratorna5\obj\Debug\net10.0\ref\Laboratorna5.dll

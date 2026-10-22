@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laboratorna5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e7091d05bdd77aca08df218097c39033960cb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laboratorna5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laboratorna5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
